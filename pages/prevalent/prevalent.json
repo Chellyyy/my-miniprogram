@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "head-time": "../../component/head/head"
+  }
+}

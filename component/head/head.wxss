@@ -1,0 +1,8 @@
+/* component/head/head.wxss */
+.head-time{
+  display: flex;
+}
+.head-time-detail{
+  display: flex;
+  flex-direction:row;
+}

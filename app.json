@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/prevalent/prevalent",
+    "pages/book/book",
+    "pages/like/like",
+    "component/head/head"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#eeeeee",
+    "selectedColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/prevalent/prevalent",
+        "text": "流行",
+        "iconPath": "images/icon/classic.png",
+        "selectedIconPath": "images/icon/classic@highlight.png"
+      },
+      {
+        "pagePath": "pages/book/book",
+        "text": "书单",
+        "iconPath": "images/icon/book.png",
+        "selectedIconPath": "images/icon/book@highlight.png"
+      },
+      {
+        "pagePath": "pages/like/like",
+        "text": "喜欢",
+        "iconPath": "images/icon/my.png",
+        "selectedIconPath": "images/icon/my@highlight.png"
+      }
+    ]
+  }
+}

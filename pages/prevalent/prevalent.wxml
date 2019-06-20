@@ -1,0 +1,2 @@
+<!--pages/prevalent/prevalent.wxml-->
+<head-time class="container" innerDate="{{date}}"></head-time>

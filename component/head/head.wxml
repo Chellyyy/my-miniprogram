@@ -1,0 +1,8 @@
+<!--component/head/head.wxml-->
+<view class="head-time">
+  <view class="head-time-detail">
+    <view>No.<text>{{day}}</text>|</view>
+    <view>2</view>
+    <view>3</view>
+  </view>
+</view>
